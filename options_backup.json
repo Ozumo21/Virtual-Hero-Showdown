@@ -1,0 +1,28 @@
+{
+    "settings": {
+        "screen_resolution": [1920, 1080],
+        "windowed_mode": "windowed",
+        "music_volume": 10,
+        "sfx_volume": 10
+    },
+    "player1_keyboard": {
+        "left": "a",
+        "right": "d",
+        "up": "w",
+        "down": "s",
+        "attack1": "r",
+        "attack2": "t",
+        "special": "f",
+        "block": "g"
+    },
+    "player2_keyboard": {
+        "left": "left",
+        "right": "right",
+        "up": "up",
+        "down": "down",
+        "attack1": "u",
+        "attack2": "i",
+        "special": "j",
+        "block": "k"
+    }
+}
